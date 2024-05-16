@@ -1,0 +1,66 @@
+body {
+	background-image: url("Bohol.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center-center;
+}
+
+div.Title {
+	padding: 20px;
+	margin: 20px;
+	margin-right: auto;
+	text-align: center;
+	background-color: mediumseagreen;
+	width: 97%;
+	border: greenyellow;
+	border-style: ridge;
+}
+
+div.border1 {
+	padding: 20px;
+	margin: 50px;
+	margin-top: auto;
+	width: 25%;
+	text-align: center;
+	background-color: mediumseagreen;
+	border: greenyellow;
+	border-style: solid;
+	font-family: Arial, sans-serif;
+	display: inline-block;
+}
+
+div.border2 {
+	padding: 20px;
+	width: 29%;
+	margin: 50px;
+	margin-right: auto;
+	text-align: center;
+	background-color: mediumseagreen;
+	border: greenyellow;
+	border-style: solid;
+	font-family: Arial, sans-serif;
+	display: inline-block;
+}
+
+div.border3 {
+	padding: 20px;
+	margin: 50px;
+	margin-right: auto;
+	width: 30%;
+	text-align: center;
+	background-color: mediumseagreen;
+	border: greenyellow;
+	border-style: solid;
+	font-family: Arial, sans-serif;
+	display: inline-block
+}
+
+div.ref {
+	padding: 10px;
+	margin: 10px;
+	text-align: center;
+	width: 97%;
+	border: greenyellow;
+	border-style: ridge;
+	background-color: mediumseagreen;
+}
